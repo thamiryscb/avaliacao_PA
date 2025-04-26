@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745688086 source:c:\users\cliente\music\listaponteiros\questao22.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
